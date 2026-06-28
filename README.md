@@ -1,1 +1,1 @@
-# eazybank-config
+# eazybytes-config
